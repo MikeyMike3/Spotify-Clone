@@ -243,10 +243,3 @@ function makeSongs(){
 }
 
 makeSongs()
-
-console.log("")
-
-
-
-
-
